@@ -1,0 +1,29 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Web application design and developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watermelon-penguin/AWP-Coursework.git"
+  },
+  "author": "Kaung Myat Kyaw u1974377",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watermelon-penguin/AWP-Coursework/issues"
+  },
+  "homepage": "https://github.com/watermelon-penguin/AWP-Coursework#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "redis": "^4.6.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": []
+}
